@@ -1,0 +1,4 @@
+{"question": "How many days of paid annual leave do employees get?", "expected_source": "company_policy.txt", "expected_keywords": ["24"]}
+{"question": "How many days per week can I work remotely?", "expected_source": "company_policy.txt", "expected_keywords": ["three"]}
+{"question": "Why do chunks overlap?", "expected_source": "rag_overview.md", "expected_keywords": ["context"]}
+{"question": "Which vector databases support nearest-neighbour search?", "expected_source": "rag_overview.md", "expected_keywords": ["ChromaDB"]}
